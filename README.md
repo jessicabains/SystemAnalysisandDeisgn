@@ -15,4 +15,4 @@ I was considering the user’s needs since the start. The business requirement m
 
 •	How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 Before designing software, it is important to know what DriverPass requires and expects the system to do. Once we know all the components needed for the system, we can then break it down into smaller steps which makes it easier to work with. Writing in a template and creating diagrams has made me realize how easier it can be to work on a project when it is organized. It helps better understand the project and connect all the information. It also save times and prevent stress.
-![image](https://github.com/jessicabains/SystemAnalysisandDeisgn/assets/142769732/4fd2c4f7-a8f4-46a7-b6c6-56d476e714ce)
+
